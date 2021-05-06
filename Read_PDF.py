@@ -36,7 +36,7 @@ def open_file():
 
 # Logo
 
-logo =Image.open("/Users/EmilianoCabreraPerez/Desktop/logo.png")
+logo = Image.open("/Users/EmilianoCabreraPerez/Desktop/logo.png")
 
 logo = ImageTk.PhotoImage(logo)
 
